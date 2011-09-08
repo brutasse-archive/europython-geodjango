@@ -1,0 +1,11 @@
+{
+	"name": "Spatial Data and GeoDjango",
+	"sections": [
+		{"section": "one"},
+		{"section": "intro"},
+		{"section": "gis_concepts"},
+		{"section": "geodjango"},
+		{"section": "game"},
+		{"section": "end"}
+	]
+}
